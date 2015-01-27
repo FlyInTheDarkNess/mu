@@ -28,6 +28,11 @@
     NSLog(@"我喜欢玩篮球");
 }
 
+- (void) Tpw{
+    NSLog(@"我喜欢玩篮球dd");
+}
+
+
 /*
 #pragma mark - Navigation
 

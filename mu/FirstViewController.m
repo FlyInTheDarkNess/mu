@@ -33,6 +33,16 @@
 }
 
 
+
+- (void) whatDoYouWant{
+    NSLog(@"像天使的翅膀");
+}
+
+- (void) tian{
+    NSLog(@"我是自由自在的");
+}
+
+
 /*
 #pragma mark - Navigation
 
